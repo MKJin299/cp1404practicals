@@ -24,4 +24,4 @@ while True:
             break
         print(f"{state_code} is {CODE_TO_NAME[state_code]}")
     except KeyError:
-        print("Invalid short state"
+        print("Invalid short state")
