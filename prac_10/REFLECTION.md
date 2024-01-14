@@ -1,0 +1,4 @@
+# Reflection
+1. During the course, I aimed to provide accurate estimates for the time required to complete practical tasks. While my estimations may not have been consistently perfect, I have continuously learned and improved throughout the subject. The exposure to varied tasks and complexities has honed my ability to assess workload and factor in potential obstacles.
+2. I have not had the opportunity to provide feedback to JCU students, but I have found that it is valuable to ask my friends questions and help them to understand concepts. This is especially important in programming, where it can be difficult to grasp new concepts without a clear explanation. By asking questions and receiving feedback, I have been able to learn more effectively and improve my programming skills.
+3. Integrating a system for timely and detailed feedback would be crucial for students to identify strengths and weaknesses, allowing for continuous improvement and adaptation.
