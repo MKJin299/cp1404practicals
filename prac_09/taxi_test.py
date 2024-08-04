@@ -1,5 +1,3 @@
-# File: taxi_test.py
-
 from taxi import Taxi
 
 # 1. Create a new taxi object (remove the price_per_km argument)
